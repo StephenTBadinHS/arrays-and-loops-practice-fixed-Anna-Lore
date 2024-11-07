@@ -1,5 +1,6 @@
 const helloWorld = function() {
-  return ''
-};
+  let string1 = 'Hello World!';
+  return string1;
+}
 
-console.log(helloWorld);
+console.log(helloWorld());
